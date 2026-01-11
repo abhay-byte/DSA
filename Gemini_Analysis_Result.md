@@ -1,2 +1,0 @@
-# Gemini Analysis Results
-
