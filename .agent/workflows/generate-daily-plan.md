@@ -27,12 +27,16 @@ This workflow generates a daily action plan for the user, balancing new learning
         *   **Constraint**: Do not overload. Pick 1-2 substantial topics or 1 lecture analysis.
 3.  **Draft Content**:
     *   **Session Time**: Prefer **5:00 AM - 7:00 AM** (User's morning slot) or **7:00 PM - 9:00 PM** (Evening slot).
-    *   **Mandatory Question Coverage**:
+    *   **Mandatory Question & Code Coverage**:
         *   **CRITICAL**: You MUST extract **EVERY** single practice problem/link mentioned in the lecture analysis.
-        *   Do not skip any "Hard" or "optional" problems. All must be scheduled.
-        *   Distribute them across days if there are too many for one session.
+        *   **Code Links**: You MUST link to **every** local code file mentioned in the analysis:
+            *   Instructor Code (`../../instructor_code/...`)
+            *   User Practice Code (`../../user_practice_code/...`)
+        *   Do not leave any resource unlinked.
     *   **Actionable Items**:
         *   "Read Section X in lec-Y.md" (Link to local file).
+        *   "Review Instructor Code: [Filename](../instructor_code/...)"
+        *   "Write/Refine User Code: [Filename](../user_practice_code/...)"
         *   "Solve Question Q1, Q2" (Link to questions in the md).
 
 ## 3. File Creation
