@@ -13,8 +13,8 @@
 | Date | Focus Topic | Status | Tasks |
 |------|-------------|--------|-------|
 | **2026-01-12** | L42: Intro & Basics | 🟡 Todo | 0/3 |
-| **2026-01-13** | L42: Components | 🔴 Pending | 0/3 |
-| **2026-01-14** | L42: MST & Adv | 🔴 Pending | 0/4 |
+| **2026-01-13** | L42: Components | 🔴 Pending | 0/4 |
+| **2026-01-14** | L42: MST & Adv | 🔴 Pending | 0/5 |
 | **2026-01-15** | L43: DFS/BFS | 🔴 Pending | 0/3 |
 | **2026-01-16** | L43: Cycles/Clone | 🔴 Pending | 0/3 |
 | **2026-01-17** | L43: Directed | 🔴 Pending | 0/3 |
