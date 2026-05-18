@@ -1,0 +1,249 @@
+1012D|AB-Strings|2800|426|constructive algorithms, strings|https://codeforces.com/problemset/problem/1012/D
+1031F|Familiar Operations|2800|311|brute force, graphs, math|https://codeforces.com/problemset/problem/1031/F
+1033E|Hidden Bipartite Graph|2800|791|binary search, constructive algorithms, dfs and similar, graphs, interactive|https://codeforces.com/problemset/problem/1033/E
+1033F|Boolean Computer|2800|465|bitmasks, brute force, fft, math|https://codeforces.com/problemset/problem/1033/F
+1039D|You Are Given a Tree|2800|2317|data structures, dp, trees|https://codeforces.com/problemset/problem/1039/D
+1067E|Random Forest Rank|2800|553|dp, graph matchings, math, trees|https://codeforces.com/problemset/problem/1067/E
+1082F|Speed Dial|2800|544|dp, strings, trees|https://codeforces.com/problemset/problem/1082/F
+1088F|Ehab and a weird weight formula|2800|597|data structures, trees|https://codeforces.com/problemset/problem/1088/F
+1098D|Eels|2800|883|data structures|https://codeforces.com/problemset/problem/1098/D
+10D|LCIS|2800|5652|dp|https://codeforces.com/problemset/problem/10/D
+1109C|Sasha and a Patient Friend|2800|288|binary search, data structures, implementation|https://codeforces.com/problemset/problem/1109/C
+1142D|Foreigner|2800|618|dp|https://codeforces.com/problemset/problem/1142/D
+1152F1|Neko Rules the Catniverse (Small Version)|2800|756|bitmasks, dp, matrices|https://codeforces.com/problemset/problem/1152/F1
+1155F|Delivery Oligopoly|2800|517|brute force, dp, graphs|https://codeforces.com/problemset/problem/1155/F
+11E|Forward, march!|2800|441|binary search, dp, greedy|https://codeforces.com/problemset/problem/11/E
+1208G|Polygons|2800|928|greedy, math, number theory|https://codeforces.com/problemset/problem/1208/G
+1214H|Tiles Placement|2800|461|constructive algorithms, dfs and similar, trees|https://codeforces.com/problemset/problem/1214/H
+1218A|BubbleReactor|2800|180|dp, graphs|https://codeforces.com/problemset/problem/1218/A
+1267D|DevOps Best Practices|2800|262|constructive algorithms|https://codeforces.com/problemset/problem/1267/D
+1279F|New Year and Handle Change|2800|1222|binary search, dp|https://codeforces.com/problemset/problem/1279/F
+1286C2|Madhouse (Hard version)|2800|746|brute force, constructive algorithms, hashing, interactive, math|https://codeforces.com/problemset/problem/1286/C2
+1291F|Coffee Varieties (easy version)|2800|726|graphs, interactive|https://codeforces.com/problemset/problem/1291/F
+1303F|Number of Components|2800|617|dsu, implementation|https://codeforces.com/problemset/problem/1303/F
+1310C|Au Pont Rouge|2800|730|binary search, dp, strings|https://codeforces.com/problemset/problem/1310/C
+1316F|Battalion Strength|2800|895|data structures, divide and conquer, probabilities|https://codeforces.com/problemset/problem/1316/F
+1322D|Reality Show|2800|883|bitmasks, dp|https://codeforces.com/problemset/problem/1322/D
+1327G|Letters and Question Marks|2800|532|bitmasks, dp, string suffix structures|https://codeforces.com/problemset/problem/1327/G
+1365G|Secure Password|2800|1419|bitmasks, combinatorics, constructive algorithms, interactive, math|https://codeforces.com/problemset/problem/1365/G
+1371F|Raging Thunder|2800|692|data structures, divide and conquer, implementation|https://codeforces.com/problemset/problem/1371/F
+1375G|Tree Modification|2800|2187|brute force, constructive algorithms, dfs and similar, graph matchings, graphs, trees|https://codeforces.com/problemset/problem/1375/G
+1379E|Inverse Genealogy|2800|474|constructive algorithms, divide and conquer, dp, math, trees|https://codeforces.com/problemset/problem/1379/E
+1379F2|Chess Strikes Back (hard version)|2800|580|data structures, divide and conquer|https://codeforces.com/problemset/problem/1379/F2
+1383D|Rearrange|2800|762|brute force, constructive algorithms, graphs, greedy, sortings|https://codeforces.com/problemset/problem/1383/D
+1383E|Strange Operation|2800|1033|combinatorics, data structures, dp|https://codeforces.com/problemset/problem/1383/E
+1386C|Joker|2800|658|*special, bitmasks, data structures, divide and conquer, dsu|https://codeforces.com/problemset/problem/1386/C
+1389G|Directing Edges|2800|495|dfs and similar, dp, graphs, trees|https://codeforces.com/problemset/problem/1389/G
+1393E1|Twilight and Ancient Scroll (easier version)|2800|448|dp, hashing, implementation, string suffix structures, strings|https://codeforces.com/problemset/problem/1393/E1
+1394D|Boboniu and Jianghu|2800|1238|dp, greedy, sortings, trees|https://codeforces.com/problemset/problem/1394/D
+1400F|x-prime Substrings|2800|1178|brute force, dfs and similar, dp, string suffix structures, strings|https://codeforces.com/problemset/problem/1400/F
+1404D|Game of Pairs|2800|1274|constructive algorithms, dfs and similar, interactive, math, number theory|https://codeforces.com/problemset/problem/1404/D
+1404E|Bricks|2800|1580|flows, graph matchings, graphs|https://codeforces.com/problemset/problem/1404/E
+1413F|Roads and Ramen|2800|963|data structures, trees|https://codeforces.com/problemset/problem/1413/F
+1419F|Rain of Fire|2800|565|binary search, data structures, dfs and similar, dsu, graphs, implementation|https://codeforces.com/problemset/problem/1419/F
+1423M|Milutin's Plums|2800|325|interactive|https://codeforces.com/problemset/problem/1423/M
+1425I|Impressive Harvesting of The Orchard|2800|268|data structures|https://codeforces.com/problemset/problem/1425/I
+1436F|Sum Over Subsets|2800|632|combinatorics, math, number theory|https://codeforces.com/problemset/problem/1436/F
+1442D|Sum|2800|2936|data structures, divide and conquer, dp, greedy|https://codeforces.com/problemset/problem/1442/D
+1455F|String and Operations|2800|519|dp, greedy|https://codeforces.com/problemset/problem/1455/F
+1473G|Tiles|2800|455|combinatorics, dp, fft, math|https://codeforces.com/problemset/problem/1473/G
+1477D|Nezzar and Hidden Permutations|2800|788|constructive algorithms, dfs and similar, graphs|https://codeforces.com/problemset/problem/1477/D
+1488H|Build From Suffixes|2800|70|*special, combinatorics, data structures|https://codeforces.com/problemset/problem/1488/H
+1491G|Switch and Flip|2800|1012|constructive algorithms, graphs, math|https://codeforces.com/problemset/problem/1491/G
+1510F|Fiber Shape|2800|64||https://codeforces.com/problemset/problem/1510/F
+1525F|Goblins And Gnomes|2800|401|brute force, dp, flows, graph matchings|https://codeforces.com/problemset/problem/1525/F
+1545C|AquaMoon and Permutations|2800|767|2-sat, brute force, combinatorics, constructive algorithms, graph matchings, graphs|https://codeforces.com/problemset/problem/1545/C
+1557E|Assiut Chess|2800|764|brute force, constructive algorithms, interactive|https://codeforces.com/problemset/problem/1557/E
+1572D|Bridge Club|2800|626|flows, graph matchings, graphs, greedy|https://codeforces.com/problemset/problem/1572/D
+1578A|Anti-Tetris|2800|423|constructive algorithms, graphs, shortest paths|https://codeforces.com/problemset/problem/1578/A
+1578B|Building Forest Trails|2800|475|data structures, dsu|https://codeforces.com/problemset/problem/1578/B
+1578K|Kingdom of Islands|2800|408|brute force, graphs, implementation|https://codeforces.com/problemset/problem/1578/K
+1592F2|Alice and Recoloring 2|2800|972|constructive algorithms, flows, graph matchings, greedy|https://codeforces.com/problemset/problem/1592/F2
+1606F|Tree Queries|2800|667|brute force, dp, trees|https://codeforces.com/problemset/problem/1606/F
+1608E|The Cells on the Paper|2800|486|binary search, implementation, sortings|https://codeforces.com/problemset/problem/1608/E
+1609F|Interesting Sections|2800|960|data structures, divide and conquer, meet-in-the-middle, two pointers|https://codeforces.com/problemset/problem/1609/F
+1612F|Armor and Weapons|2800|695|brute force, dp, greedy, shortest paths|https://codeforces.com/problemset/problem/1612/F
+1615F|LEGOndary Grandmaster|2800|1150|combinatorics, dp, math|https://codeforces.com/problemset/problem/1615/F
+1620F|Bipartite Array|2800|753|dp, greedy|https://codeforces.com/problemset/problem/1620/F
+1625E2|Cats on the Upgrade (hard version)|2800|662|binary search, data structures, dfs and similar, graphs, trees|https://codeforces.com/problemset/problem/1625/E2
+1626F|A Random Code Problem|2800|905|combinatorics, dp, math, number theory, probabilities|https://codeforces.com/problemset/problem/1626/F
+1633F|Perfect Matching|2800|373|data structures, divide and conquer, interactive, trees|https://codeforces.com/problemset/problem/1633/F
+1635F|Closest Pair |2800|1392|data structures, greedy|https://codeforces.com/problemset/problem/1635/F
+163E|e-Government|2800|2199|data structures, dfs and similar, dp, strings, trees|https://codeforces.com/problemset/problem/163/E
+1648D|Serious Business|2800|1052|data structures, divide and conquer, dp, implementation, shortest paths|https://codeforces.com/problemset/problem/1648/D
+1654F|Minimal String Xoration|2800|1488|bitmasks, data structures, divide and conquer, greedy, hashing, sortings, strings|https://codeforces.com/problemset/problem/1654/F
+1672F2|Checker for Array Shuffling|2800|937|constructive algorithms, dfs and similar, graphs|https://codeforces.com/problemset/problem/1672/F2
+1684G|Euclid Guess|2800|789|constructive algorithms, flows, graph matchings, math, number theory|https://codeforces.com/problemset/problem/1684/G
+1685D1|Permutation Weight (Easy Version)|2800|514|constructive algorithms, dfs and similar, dsu|https://codeforces.com/problemset/problem/1685/D1
+1693D|Decinc Dividing|2800|1109|brute force, data structures, divide and conquer, dp, greedy|https://codeforces.com/problemset/problem/1693/D
+1697F|Too Many Constraints|2800|727|2-sat, constructive algorithms, graphs, implementation|https://codeforces.com/problemset/problem/1697/F
+1698F|Equal Reversal|2800|759|constructive algorithms, graphs, implementation, math|https://codeforces.com/problemset/problem/1698/F
+1721F|Matching Reduction|2800|514|brute force, constructive algorithms, dfs and similar, flows, graph matchings, graphs, interactive|https://codeforces.com/problemset/problem/1721/F
+1725I|Imitating the Key Tree|2800|298|combinatorics, dsu, trees|https://codeforces.com/problemset/problem/1725/I
+1732E|Location|2800|586|data structures, dp, math, number theory|https://codeforces.com/problemset/problem/1732/E
+1746F|Kazaee|2800|2676|data structures, hashing, probabilities|https://codeforces.com/problemset/problem/1746/F
+1749F|Distance to the Path|2800|612|data structures, dfs and similar, trees|https://codeforces.com/problemset/problem/1749/F
+1765I|Infinite Chess|2800|264|implementation, shortest paths|https://codeforces.com/problemset/problem/1765/I
+1766F|MCF|2800|360|flows|https://codeforces.com/problemset/problem/1766/F
+1773G|Game of Questions|2800|550|bitmasks, combinatorics, dp, fft, math, probabilities|https://codeforces.com/problemset/problem/1773/G
+1776D|Teamwork|2800|453|constructive algorithms, greedy, math|https://codeforces.com/problemset/problem/1776/D
+1783G|Weighed Tree Radius|2800|589|data structures, divide and conquer, implementation, trees|https://codeforces.com/problemset/problem/1783/G
+1808E3|Minibuses on Venus (hard version)|2800|577|brute force, combinatorics, dp, math|https://codeforces.com/problemset/problem/1808/E3
+1809G|Prediction|2800|563|combinatorics, dp, math|https://codeforces.com/problemset/problem/1809/G
+1810F|M-tree|2800|660|data structures, math, sortings, trees|https://codeforces.com/problemset/problem/1810/F
+1819D|Misha and Apples|2800|843|brute force, data structures, dp, two pointers|https://codeforces.com/problemset/problem/1819/D
+1826F|Fading into Fog|2800|459|geometry, interactive, math, probabilities|https://codeforces.com/problemset/problem/1826/F
+1827D|Two Centroids|2800|980|data structures, dfs and similar, greedy, trees|https://codeforces.com/problemset/problem/1827/D
+1830D|Mex Tree|2800|938|brute force, dp, trees|https://codeforces.com/problemset/problem/1830/D
+1842G|Tenzing and Random Operations|2800|1593|combinatorics, dp, math, probabilities|https://codeforces.com/problemset/problem/1842/G
+1844F2|Min Cost Permutation (Hard Version)|2800|483|binary search, constructive algorithms, data structures, greedy, math, sortings|https://codeforces.com/problemset/problem/1844/F2
+1845F|Swimmers in the Pool|2800|435|dp, fft, math, number theory|https://codeforces.com/problemset/problem/1845/F
+1852D|Miriany and Matchstick|2800|604|constructive algorithms, dp, greedy|https://codeforces.com/problemset/problem/1852/D
+1863G|Swaps|2800|831|combinatorics, dp, graphs, math|https://codeforces.com/problemset/problem/1863/G
+1866J|Jackets and Packets|2800|440|dp|https://codeforces.com/problemset/problem/1866/J
+1874D|Jellyfish and Miku|2800|945|divide and conquer, dp, math, probabilities|https://codeforces.com/problemset/problem/1874/D
+1879F|Last Man Standing|2800|610|brute force, data structures, number theory|https://codeforces.com/problemset/problem/1879/F
+187D|BRT Contract |2800|583|data structures|https://codeforces.com/problemset/problem/187/D
+1884E|Hard Design|2800|390|greedy, implementation, math|https://codeforces.com/problemset/problem/1884/E
+1900F|Local Deletions|2800|360|binary search, data structures, implementation|https://codeforces.com/problemset/problem/1900/F
+1904F|Beautiful Tree|2800|514|data structures, dfs and similar, graphs, implementation, trees|https://codeforces.com/problemset/problem/1904/F
+1906D|Spaceship Exploration|2800|169|binary search, geometry|https://codeforces.com/problemset/problem/1906/D
+1913F|Palindromic Problem|2800|545|binary search, data structures, hashing, string suffix structures, strings|https://codeforces.com/problemset/problem/1913/F
+1919F2|Wine Factory (Hard Version)|2800|1088|data structures, dp, flows, greedy, matrices|https://codeforces.com/problemset/problem/1919/F2
+1923F|Shrink-Reverse|2800|536|binary search, brute force, greedy, hashing, implementation, string suffix structures, strings|https://codeforces.com/problemset/problem/1923/F
+1935F|Andrey's Tree|2800|609|binary search, constructive algorithms, data structures, dfs and similar, dsu, greedy, implementation, trees|https://codeforces.com/problemset/problem/1935/F
+1938I|Symmetric Boundary|2800|88||https://codeforces.com/problemset/problem/1938/I
+1938L|XOR Operations|2800|351||https://codeforces.com/problemset/problem/1938/L
+1942G|Bessie and Cards|2800|758|combinatorics, dp, math|https://codeforces.com/problemset/problem/1942/G
+1943D2|Counting Is Fun (Hard Version)|2800|1128|combinatorics, dp|https://codeforces.com/problemset/problem/1943/D2
+1949K|Make Triangle|2800|453|constructive algorithms, math|https://codeforces.com/problemset/problem/1949/K
+1967D|Long Way to be Non-decreasing|2800|979|binary search, dfs and similar, graphs, implementation, shortest paths, two pointers|https://codeforces.com/problemset/problem/1967/D
+196D|The Next Good String|2800|602|data structures, greedy, hashing, strings|https://codeforces.com/problemset/problem/196/D
+1976F|Remove Bridges|2800|835|data structures, dfs and similar, dp, greedy, sortings, trees|https://codeforces.com/problemset/problem/1976/F
+1990F|Polygonal Segments|2800|442|brute force, data structures, divide and conquer, dp, greedy, two pointers|https://codeforces.com/problemset/problem/1990/F
+1993F2|Dyn-scripted Robot (Hard Version)|2800|551|chinese remainder theorem, math, number theory|https://codeforces.com/problemset/problem/1993/F2
+19D|Points|2800|3192|data structures|https://codeforces.com/problemset/problem/19/D
+2002F2|Court Blue (Hard Version)|2800|578|brute force, dp, math, number theory|https://codeforces.com/problemset/problem/2002/F2
+2003F|Turtle and Three Sequences|2800|805|brute force, data structures, dp, greedy, math, probabilities, two pointers|https://codeforces.com/problemset/problem/2003/F
+2021E3|Digital Village (Extreme Version)|2800|680|data structures, dfs and similar, dp, dsu, graphs, greedy, math, trees|https://codeforces.com/problemset/problem/2021/E3
+2027E1|Bit Game (Easy Version)|2800|249|bitmasks, brute force, games, math|https://codeforces.com/problemset/problem/2027/E1
+2031F|Penchick and Even Medians|2800|457|binary search, constructive algorithms, interactive, probabilities|https://codeforces.com/problemset/problem/2031/F
+2034F2|Khayyam's Royal Decree (Hard Version)|2800|600|combinatorics, dp, math, sortings|https://codeforces.com/problemset/problem/2034/F2
+2038M|Royal Flush|2800|331|dp, implementation|https://codeforces.com/problemset/problem/2038/M
+2039F1|Shohag Loves Counting (Easy Version)|2800|511|combinatorics, dp, math, number theory|https://codeforces.com/problemset/problem/2039/F1
+2048G|Kevin and Matrices|2800|745|brute force, combinatorics, dp, math|https://codeforces.com/problemset/problem/2048/G
+204E|Little Elephant and Strings|2800|1441|data structures, implementation, string suffix structures, two pointers|https://codeforces.com/problemset/problem/204/E
+2052G|Geometric Balance|2800|208|data structures, geometry, implementation|https://codeforces.com/problemset/problem/2052/G
+2052I|Incompetent Delivery Guy|2800|153|graphs, shortest paths|https://codeforces.com/problemset/problem/2052/I
+2052K|Knowns and Unknowns|2800|102||https://codeforces.com/problemset/problem/2052/K
+2053I1|Affectionate Arrays (Easy Version)|2800|559|data structures, dp, greedy|https://codeforces.com/problemset/problem/2053/I1
+2055E|Haystacks|2800|484|brute force, constructive algorithms, data structures, greedy, sortings|https://codeforces.com/problemset/problem/2055/E
+2068E|Porto Vs. Benfica|2800|369|data structures, dfs and similar, dsu, graphs, shortest paths|https://codeforces.com/problemset/problem/2068/E
+2069F|Graph Inclusion|2800|792|data structures, dfs and similar, divide and conquer, dsu, graphs|https://codeforces.com/problemset/problem/2069/F
+2097D|Homework|2800|554|bitmasks, math, matrices|https://codeforces.com/problemset/problem/2097/D
+2107F2|Cycling (Hard Version)|2800|511|binary search, brute force, data structures, dp, greedy|https://codeforces.com/problemset/problem/2107/F2
+2112F|Variables and Operations|2800|644|graphs, greedy, shortest paths|https://codeforces.com/problemset/problem/2112/F
+2113E|From Kazan with Love|2800|409|dfs and similar, graphs, implementation, trees|https://codeforces.com/problemset/problem/2113/E
+2124F2|Appending Permutations (Hard Version)|2800|586|combinatorics, dp|https://codeforces.com/problemset/problem/2124/F2
+2127F|Hamed and AghaBalaSar|2800|1191|brute force, combinatorics, dp, math, probabilities|https://codeforces.com/problemset/problem/2127/F
+2141G|Good Robot Paths|2800|62|*special, data structures, geometry, sortings|https://codeforces.com/problemset/problem/2141/G
+2147F|Exchange Queries|2800|691|combinatorics, data structures, greedy|https://codeforces.com/problemset/problem/2147/F
+2150E2|Hidden Single (Version 2)|2800|601|binary search, divide and conquer, interactive, math, probabilities|https://codeforces.com/problemset/problem/2150/E2
+2155F|Juan's Colorful Tree|2800|648|data structures, dfs and similar, dsu, graphs, meet-in-the-middle, trees|https://codeforces.com/problemset/problem/2155/F
+2157G|Isaac's Queries|2800|416|bitmasks, brute force, constructive algorithms, dfs and similar, divide and conquer, dp, greedy, interactive, math, probabilities|https://codeforces.com/problemset/problem/2157/G
+2172N|New Kingdom|2800|164|constructive algorithms, graphs, implementation|https://codeforces.com/problemset/problem/2172/N
+2174F|Mosaic Tree|2800|471|combinatorics, dp, fft, math, trees|https://codeforces.com/problemset/problem/2174/F
+2178G|deCH OR Dations|2800|596|bitmasks, data structures, dp, hashing, probabilities|https://codeforces.com/problemset/problem/2178/G
+217E|Alien DNA|2800|354|data structures, dsu, trees|https://codeforces.com/problemset/problem/217/E
+2180F1|Control Car (Easy Version)|2800|406|combinatorics, dp, probabilities|https://codeforces.com/problemset/problem/2180/F1
+2181L|LLM Training|2800|135|math, string suffix structures|https://codeforces.com/problemset/problem/2181/L
+2182G|Short Garland|2800|356|combinatorics, data structures, dfs and similar, dp, trees|https://codeforces.com/problemset/problem/2182/G
+2189F|Zhora the Vacuum Cleaner|2800|228|data structures, dfs and similar, dp, greedy, implementation, sortings, trees|https://codeforces.com/problemset/problem/2189/F
+2201F2|Monotone Monochrome Matrices (Hard Version)|2800|404|constructive algorithms, data structures, hashing, math|https://codeforces.com/problemset/problem/2201/F2
+2215D|EXPloration, EXPloitation, and Gain Some EXPerience!|2800|124|bitmasks, brute force, dp, greedy, implementation|https://codeforces.com/problemset/problem/2215/D
+2217H|Closer|2800|228|dfs and similar, dp, trees|https://codeforces.com/problemset/problem/2217/H
+240E|Road Repairs|2800|431|dfs and similar, graphs, greedy|https://codeforces.com/problemset/problem/240/E
+261E|Maxim and Calculator|2800|440|brute force, dp, two pointers|https://codeforces.com/problemset/problem/261/E
+277D|Google Code Jam|2800|373|dp, probabilities|https://codeforces.com/problemset/problem/277/D
+280D|k-Maximum Subsequence Sum|2800|1660|data structures, flows, graphs, implementation|https://codeforces.com/problemset/problem/280/D
+283E|Cow Tennis Tournament|2800|856|combinatorics, data structures, math|https://codeforces.com/problemset/problem/283/E
+286E|Ladies' Shop|2800|1020|constructive algorithms, fft, math|https://codeforces.com/problemset/problem/286/E
+288E|Polo the Penguin and Lucky Numbers|2800|347|dp, implementation, math|https://codeforces.com/problemset/problem/288/E
+28E|DravDe saves the world|2800|109|geometry, math|https://codeforces.com/problemset/problem/28/E
+290F|Greedy Petya|2800|153|*special, dfs and similar, graphs, greedy|https://codeforces.com/problemset/problem/290/F
+301E|Yaroslav and Arrangements|2800|406|dp|https://codeforces.com/problemset/problem/301/E
+30E|Tricky and Clever Password|2800|921|binary search, constructive algorithms, data structures, greedy, hashing, strings|https://codeforces.com/problemset/problem/30/E
+319D|Have You Ever Heard About the Word?|2800|778|greedy, hashing, string suffix structures, strings|https://codeforces.com/problemset/problem/319/D
+325E|The Red Button|2800|953|combinatorics, dfs and similar, dsu, graphs, greedy|https://codeforces.com/problemset/problem/325/E
+335E|Counting Skyscrapers|2800|241|dp, math, probabilities|https://codeforces.com/problemset/problem/335/E
+348E|Pilgrims|2800|514|dfs and similar, dp, trees|https://codeforces.com/problemset/problem/348/E
+360E|Levko and Game|2800|817|graphs, greedy, shortest paths|https://codeforces.com/problemset/problem/360/E
+377E|Cookie Clicker|2800|568|dp, geometry|https://codeforces.com/problemset/problem/377/E
+406E|Hamming Triples|2800|273|implementation, math, two pointers|https://codeforces.com/problemset/problem/406/E
+418D|Big Problems for Organizers|2800|546|data structures, graphs, trees|https://codeforces.com/problemset/problem/418/D
+436D|Pudding Monsters|2800|352|dp|https://codeforces.com/problemset/problem/436/D
+446D|DZY Loves Games|2800|466|math, matrices, probabilities|https://codeforces.com/problemset/problem/446/D
+461D|Appleman and Complicated Task|2800|401|dsu, math|https://codeforces.com/problemset/problem/461/D
+472E|Design Tutorial: Learn from a Game|2800|138|constructive algorithms, implementation|https://codeforces.com/problemset/problem/472/E
+472G|Design Tutorial: Increase the Constraints|2800|463|bitmasks, data structures, fft|https://codeforces.com/problemset/problem/472/G
+480E|Parking Lot|2800|640|data structures, divide and conquer|https://codeforces.com/problemset/problem/480/E
+48F|Snow sellers|2800|189|greedy, sortings|https://codeforces.com/problemset/problem/48/F
+48H|Black and White|2800|184|constructive algorithms|https://codeforces.com/problemset/problem/48/H
+493E|Vasya and Polynomial|2800|517|math|https://codeforces.com/problemset/problem/493/E
+513F2|Scaygerboss|2800|413|flows|https://codeforces.com/problemset/problem/513/F2
+516D|Drazil and Morning Exercise|2800|1531|dfs and similar, dp, dsu, trees, two pointers|https://codeforces.com/problemset/problem/516/D
+51F|Caterpillar|2800|821|dfs and similar, dp, graphs, trees|https://codeforces.com/problemset/problem/51/F
+521D|Shop|2800|1831|greedy|https://codeforces.com/problemset/problem/521/D
+547E|Mike and Friends|2800|2616|data structures, string suffix structures, strings, trees|https://codeforces.com/problemset/problem/547/E
+549F|Yura and Developers|2800|1037|data structures, divide and conquer|https://codeforces.com/problemset/problem/549/F
+555E|Case of Computer Network|2800|2984|dfs and similar, graphs, trees|https://codeforces.com/problemset/problem/555/E
+559D|Randomizer|2800|475|combinatorics, geometry, probabilities|https://codeforces.com/problemset/problem/559/D
+568D|Sign Posts|2800|319|brute force, geometry, math|https://codeforces.com/problemset/problem/568/D
+575E|Spectator Riots|2800|301|geometry|https://codeforces.com/problemset/problem/575/E
+575I|Robots protection|2800|547|data structures|https://codeforces.com/problemset/problem/575/I
+581E|Kojiro and Furrari|2800|220|dp, greedy|https://codeforces.com/problemset/problem/581/E
+600F|Edge coloring of bipartite graph|2800|1157|graphs|https://codeforces.com/problemset/problem/600/F
+601E|A Museum Robbery|2800|1144|data structures, dp|https://codeforces.com/problemset/problem/601/E
+613D|Kingdom and its Cities|2800|4079|dfs and similar, divide and conquer, dp, graphs, sortings, trees|https://codeforces.com/problemset/problem/613/D
+620F|Xors on Segments|2800|885|data structures, strings, trees|https://codeforces.com/problemset/problem/620/F
+625E|Frog Fights|2800|419|data structures, greedy|https://codeforces.com/problemset/problem/625/E
+633G|Yash And Trees|2800|877|bitmasks, data structures, dfs and similar, math, number theory|https://codeforces.com/problemset/problem/633/G
+639E|Bear and Paradox|2800|617|binary search, greedy, math, sortings|https://codeforces.com/problemset/problem/639/E
+652F|Ants on a Circle|2800|655|constructive algorithms, math|https://codeforces.com/problemset/problem/652/F
+671C|Ultimate Weirdness of an Array|2800|782|data structures, number theory|https://codeforces.com/problemset/problem/671/C
+685E|Travelling Through the Snow Queen's Kingdom|2800|611|bitmasks, brute force, divide and conquer, graphs|https://codeforces.com/problemset/problem/685/E
+698E|Cron|2800|140||https://codeforces.com/problemset/problem/698/E
+702F|T-Shirts|2800|1927|data structures|https://codeforces.com/problemset/problem/702/F
+717I|Cowboy Beblop at his computer|2800|214|geometry|https://codeforces.com/problemset/problem/717/I
+722F|Cyclic Cipher|2800|609|chinese remainder theorem, data structures, implementation, number theory, two pointers|https://codeforces.com/problemset/problem/722/F
+736D|Permutations|2800|546|math, matrices|https://codeforces.com/problemset/problem/736/D
+74E|Shift It!|2800|185|constructive algorithms|https://codeforces.com/problemset/problem/74/E
+750F|New Year and Finding Roots|2800|595|constructive algorithms, implementation, interactive, trees|https://codeforces.com/problemset/problem/750/F
+757F|Team Rocket Rises Again|2800|1441|data structures, graphs, shortest paths|https://codeforces.com/problemset/problem/757/F
+762F|Tree nesting|2800|478|combinatorics, graphs, trees|https://codeforces.com/problemset/problem/762/F
+776F|Sherlock's bet to Moriarty|2800|512|constructive algorithms, data structures, divide and conquer, geometry, graphs, implementation, trees|https://codeforces.com/problemset/problem/776/F
+77E|Martian Food|2800|422|geometry|https://codeforces.com/problemset/problem/77/E
+794E|Choosing Carrot|2800|1027|games, math|https://codeforces.com/problemset/problem/794/E
+794F|Leha and security system|2800|992|data structures|https://codeforces.com/problemset/problem/794/F
+796F|Sequence Recovery|2800|204|bitmasks, data structures, greedy|https://codeforces.com/problemset/problem/796/F
+79D|Password|2800|1349|bitmasks, dp, shortest paths|https://codeforces.com/problemset/problem/79/D
+802D3|Marmots (hard)|2800|153|math, probabilities|https://codeforces.com/problemset/problem/802/D3
+815D|Karen and Cards|2800|751|binary search, combinatorics, data structures, geometry|https://codeforces.com/problemset/problem/815/D
+819E|Mister B and Flight to the Moon|2800|609|constructive algorithms, graphs|https://codeforces.com/problemset/problem/819/E
+830D|Singer House|2800|980|combinatorics, dp, graphs, trees|https://codeforces.com/problemset/problem/830/D
+833D|Red-Black Cobweb|2800|486|data structures, divide and conquer, implementation, trees|https://codeforces.com/problemset/problem/833/D
+838C|Future Failure|2800|406|dp, games|https://codeforces.com/problemset/problem/838/C
+838F|Expected Earnings|2800|112||https://codeforces.com/problemset/problem/838/F
+83E|Two Subsequences|2800|544|bitmasks, dp|https://codeforces.com/problemset/problem/83/E
+842E|Nikita and game|2800|501|binary search, dfs and similar, divide and conquer, graphs, trees|https://codeforces.com/problemset/problem/842/E
+850D|Tournament Construction|2800|468|constructive algorithms, dp, graphs, greedy, math|https://codeforces.com/problemset/problem/850/D
+850E|Random Elections|2800|535|bitmasks, brute force, divide and conquer, fft, math|https://codeforces.com/problemset/problem/850/E
+850F|Rainbow Balls|2800|764|math|https://codeforces.com/problemset/problem/850/F
+859F|Ordering T-Shirts|2800|228|greedy|https://codeforces.com/problemset/problem/859/F
+869D|The Overdosing Ubiquity|2800|279|brute force, dfs and similar, graphs|https://codeforces.com/problemset/problem/869/D
+887E|Little Brother|2800|183|binary search, geometry, sortings|https://codeforces.com/problemset/problem/887/E
+908G|New Year and Original Order|2800|1674|dp, math|https://codeforces.com/problemset/problem/908/G
+913F|Strongly Connected Tournament|2800|773|dp, graphs, math, probabilities|https://codeforces.com/problemset/problem/913/F
+962G|Visible Black Areas|2800|207|data structures, dsu, geometry, trees|https://codeforces.com/problemset/problem/962/G
+983E|NN country|2800|1200|binary search, data structures, trees|https://codeforces.com/problemset/problem/983/E
+986E|Prince's Problem|2800|908|brute force, data structures, math, number theory, trees|https://codeforces.com/problemset/problem/986/E

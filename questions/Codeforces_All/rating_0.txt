@@ -1,0 +1,330 @@
+1116A1|Generate state -00⟩ + -01⟩ + -10⟩|0|328|*special|https://codeforces.com/problemset/problem/1116/A1
+1116A2|Generate equal superposition of four basis states|0|184|*special|https://codeforces.com/problemset/problem/1116/A2
+1116B1|Distinguish three-qubit states|0|136|*special|https://codeforces.com/problemset/problem/1116/B1
+1116B2|Not A, not B or not C?|0|62|*special|https://codeforces.com/problemset/problem/1116/B2
+1116C1|Alternating bits oracle|0|267|*special|https://codeforces.com/problemset/problem/1116/C1
+1116C2|``Is the bit string periodic?'' oracle|0|189|*special|https://codeforces.com/problemset/problem/1116/C2
+1116C3|``Is the number of ones divisible by 3?'' oracle|0|187|*special|https://codeforces.com/problemset/problem/1116/C3
+1116D1|Block diagonal matrix|0|278|*special|https://codeforces.com/problemset/problem/1116/D1
+1116D2|Pattern of increasing blocks|0|236|*special|https://codeforces.com/problemset/problem/1116/D2
+1116D3|X-wing fighter|0|207|*special|https://codeforces.com/problemset/problem/1116/D3
+1116D4|TIE fighter|0|171|*special|https://codeforces.com/problemset/problem/1116/D4
+1116D5|Creeper|0|152|*special|https://codeforces.com/problemset/problem/1116/D5
+1116D6|Hessenberg matrix|0|81|*special|https://codeforces.com/problemset/problem/1116/D6
+1145A|Thanos Sort|0|9274|*special, implementation|https://codeforces.com/problemset/problem/1145/A
+1145B|Kanban Numbers|0|1502|*special, brute force|https://codeforces.com/problemset/problem/1145/B
+1145C|Mystery Circuit|0|832|bitmasks, brute force|https://codeforces.com/problemset/problem/1145/C
+1145D|Pigeon d'Or|0|1195|*special, implementation|https://codeforces.com/problemset/problem/1145/D
+1145E|Fourier Doodles|0|443||https://codeforces.com/problemset/problem/1145/E
+1145F|Neat Words|0|540|*special|https://codeforces.com/problemset/problem/1145/F
+1145G|AI Takeover|0|190|*special, interactive|https://codeforces.com/problemset/problem/1145/G
+1160A2|Collaboration|0|0|*special|https://codeforces.com/problemset/problem/1160/A2
+1170A|Three Integers Again|0|1563|*special, math|https://codeforces.com/problemset/problem/1170/A
+1170B|Bad Days|0|1150|*special, implementation|https://codeforces.com/problemset/problem/1170/B
+1170C|Minus and Minus Give Plus|0|835|*special, implementation, strings|https://codeforces.com/problemset/problem/1170/C
+1170D|Decoding of Integer Sequences|0|531|*special, data structures, implementation|https://codeforces.com/problemset/problem/1170/D
+1170E|Sliding Doors|0|275|*special, binary search|https://codeforces.com/problemset/problem/1170/E
+1170F|Wheels|0|136|*special, binary search, greedy|https://codeforces.com/problemset/problem/1170/F
+1170G|Graph Decomposition|0|84|*special, graphs|https://codeforces.com/problemset/problem/1170/G
+1170H|Longest Saw|0|57|*special, constructive algorithms|https://codeforces.com/problemset/problem/1170/H
+1170I|Good Subsets|0|47|*special, dp|https://codeforces.com/problemset/problem/1170/I
+1192A|Building Skyscrapers|0|80|*special|https://codeforces.com/problemset/problem/1192/A
+1192B|Dynamic Diameter|0|1576|*special, data structures, dfs and similar, divide and conquer, trees|https://codeforces.com/problemset/problem/1192/B
+1192C|Cubeword|0|367|*special, brute force, dp, meet-in-the-middle|https://codeforces.com/problemset/problem/1192/C
+1193A|Amusement Park|0|466|*special, dp, math|https://codeforces.com/problemset/problem/1193/A
+1193B|Magic Tree|0|510|*special, data structures, dp, trees|https://codeforces.com/problemset/problem/1193/B
+1193C|Scissors and Tape|0|48|*special, constructive algorithms, geometry|https://codeforces.com/problemset/problem/1193/C
+1275A|Скрытый друг|0|891|*special|https://codeforces.com/problemset/problem/1275/A
+1275B|Code Review|0|844|*special|https://codeforces.com/problemset/problem/1275/B
+1275C|#define Задача B ...|0|698|*special|https://codeforces.com/problemset/problem/1275/C
+1275D|Storage2|0|422|*special|https://codeforces.com/problemset/problem/1275/D
+1275E1|Контрольная сумма|0|265|*special|https://codeforces.com/problemset/problem/1275/E1
+1275E2|Контрольная сумма|0|138|*special|https://codeforces.com/problemset/problem/1275/E2
+1275E3|Контрольная сумма|0|61|*special|https://codeforces.com/problemset/problem/1275/E3
+1275F|Шардирование постов|0|92|*special, binary search, interactive|https://codeforces.com/problemset/problem/1275/F
+1297A|Likes Display|0|958|*special, implementation|https://codeforces.com/problemset/problem/1297/A
+1297B|Cartoons|0|433|*special, implementation, sortings|https://codeforces.com/problemset/problem/1297/B
+1297C|Dream Team|0|414|*special, greedy|https://codeforces.com/problemset/problem/1297/C
+1297D|Bonus Distribution |0|274|*special, binary search, greedy, sortings|https://codeforces.com/problemset/problem/1297/D
+1297E|Modernization of Treeland|0|219|*special, dfs and similar, trees|https://codeforces.com/problemset/problem/1297/E
+1297F|Movie Fan|0|127|*special, data structures, greedy, implementation, sortings|https://codeforces.com/problemset/problem/1297/F
+1297G|M-numbers|0|78|*special, dp, math|https://codeforces.com/problemset/problem/1297/G
+1297H|Paint the String|0|53|*special, dp, strings|https://codeforces.com/problemset/problem/1297/H
+1297I|Falling Blocks|0|37|*special, data structures|https://codeforces.com/problemset/problem/1297/I
+1302A|Nash equilibrium|0|299||https://codeforces.com/problemset/problem/1302/A
+1302B|DAG|0|156|constructive algorithms|https://codeforces.com/problemset/problem/1302/B
+1302C|Segment tree or Fenwick?|0|388|data structures|https://codeforces.com/problemset/problem/1302/C
+1302D|Dijkstra|0|98||https://codeforces.com/problemset/problem/1302/D
+1302E|Amazing bitset|0|51||https://codeforces.com/problemset/problem/1302/E
+1302F|Keep talking and nobody explodes -- easy|0|76|bitmasks, brute force, expression parsing|https://codeforces.com/problemset/problem/1302/F
+1302G|Keep talking and nobody explodes -- medium|0|23||https://codeforces.com/problemset/problem/1302/G
+1302H|Who needs suffix structures?|0|10||https://codeforces.com/problemset/problem/1302/H
+1302I|Deja vu|0|6||https://codeforces.com/problemset/problem/1302/I
+1302J|Keep talking and nobody explodes -- hard|0|12||https://codeforces.com/problemset/problem/1302/J
+1331A|Is it rated?|0|17517|*special|https://codeforces.com/problemset/problem/1331/A
+1331B|Limericks|0|7160|*special, math, number theory|https://codeforces.com/problemset/problem/1331/B
+1331C|...And after happily lived ever they|0|3214|*special, bitmasks|https://codeforces.com/problemset/problem/1331/C
+1331D|Again?|0|12103|*special, implementation|https://codeforces.com/problemset/problem/1331/D
+1331E|Jordan Smiley|0|1239|*special, dfs and similar, geometry, implementation|https://codeforces.com/problemset/problem/1331/E
+1331F|Elementary!|0|603|*special, brute force, dp, strings|https://codeforces.com/problemset/problem/1331/F
+1331G|Lingua Romana|0|595|*special|https://codeforces.com/problemset/problem/1331/G
+1331H|It's showtime|0|649|*special|https://codeforces.com/problemset/problem/1331/H
+1356A1|Distinguish I from X|0|606|*special|https://codeforces.com/problemset/problem/1356/A1
+1356A2|Distinguish I from Z|0|490|*special|https://codeforces.com/problemset/problem/1356/A2
+1356A3|Distinguish Z from S|0|463|*special|https://codeforces.com/problemset/problem/1356/A3
+1356A4|Distinguish I ⊗ X from CNOT|0|461|*special|https://codeforces.com/problemset/problem/1356/A4
+1356A5|Distinguish Z from -Z|0|334|*special|https://codeforces.com/problemset/problem/1356/A5
+1356B1|Increment|0|286|*special|https://codeforces.com/problemset/problem/1356/B1
+1356B2|Decrement|0|287|*special|https://codeforces.com/problemset/problem/1356/B2
+1356C|Prepare state -01⟩ + -10⟩ + -11⟩|0|305|*special|https://codeforces.com/problemset/problem/1356/C
+1356D1|Quantum Classification - 1|0|138|*special|https://codeforces.com/problemset/problem/1356/D1
+1356D2|Quantum Classification - 2|0|129|*special|https://codeforces.com/problemset/problem/1356/D2
+1357A1|Figure out direction of CNOT|0|634|*special|https://codeforces.com/problemset/problem/1357/A1
+1357A2|Distinguish I, CNOTs and SWAP|0|513|*special|https://codeforces.com/problemset/problem/1357/A2
+1357A3|Distinguish H from X|0|481|*special|https://codeforces.com/problemset/problem/1357/A3
+1357A4|Distinguish Rz from R1|0|354|*special|https://codeforces.com/problemset/problem/1357/A4
+1357A5|Distinguish Rz(θ) from Ry(θ)|0|243|*special|https://codeforces.com/problemset/problem/1357/A5
+1357A6|Distinguish four Pauli gates|0|170|*special|https://codeforces.com/problemset/problem/1357/A6
+1357A7|Distinguish Y, XZ, -Y and -XZ|0|185|*special|https://codeforces.com/problemset/problem/1357/A7
+1357B1|"Is the bit string balanced?" oracle|0|216|*special|https://codeforces.com/problemset/problem/1357/B1
+1357B2|"Is the number divisible by 3?" oracle|0|216|*special|https://codeforces.com/problemset/problem/1357/B2
+1357C1|Prepare superposition of basis states with 0s|0|350|*special|https://codeforces.com/problemset/problem/1357/C1
+1357C2|Prepare superposition of basis states with the same parity|0|307|*special|https://codeforces.com/problemset/problem/1357/C2
+1357D1|Quantum Classification - Dataset 3|0|126|*special|https://codeforces.com/problemset/problem/1357/D1
+1357D2|Quantum Classification - Dataset 4|0|113|*special|https://codeforces.com/problemset/problem/1357/D2
+1357D3|Quantum Classification - Dataset 5|0|106|*special|https://codeforces.com/problemset/problem/1357/D3
+1357D4|Quantum Classification - Dataset 6|0|86|*special|https://codeforces.com/problemset/problem/1357/D4
+1357D5|Quantum Classification - Dataset 7|0|83|*special|https://codeforces.com/problemset/problem/1357/D5
+1357E1|Power of quantum Fourier transform|0|195|*special|https://codeforces.com/problemset/problem/1357/E1
+1357E2|Root of quantum Fourier transform|0|53|*special|https://codeforces.com/problemset/problem/1357/E2
+1531A|Зингер - color|0|1484|*special, implementation|https://codeforces.com/problemset/problem/1531/A
+1531B1|Мониторинг|0|1157|*special|https://codeforces.com/problemset/problem/1531/B1
+1531B2|Мониторинг|0|796|*special|https://codeforces.com/problemset/problem/1531/B2
+1531C|Симметричный амфитеатр|0|659|*special, constructive algorithms, dp|https://codeforces.com/problemset/problem/1531/C
+1531D|Редактируем Зингер - color|0|370|*special|https://codeforces.com/problemset/problem/1531/D
+1531E1|Сортировка слиянием|0|362|*special|https://codeforces.com/problemset/problem/1531/E1
+1531E2|Сортировка слиянием|0|340|*special, brute force|https://codeforces.com/problemset/problem/1531/E2
+1531E3|Сортировка слиянием|0|271|*special, binary search|https://codeforces.com/problemset/problem/1531/E3
+1532A|A+B (Trial Problem)|0|1150|*special|https://codeforces.com/problemset/problem/1532/A
+1532B|Frog Jumping|0|829|*special, math|https://codeforces.com/problemset/problem/1532/B
+1532C|Uniform String|0|641|*special, implementation|https://codeforces.com/problemset/problem/1532/C
+1532D|Teams Forming|0|590|*special, sortings|https://codeforces.com/problemset/problem/1532/D
+1532E|Good Array|0|392|*special|https://codeforces.com/problemset/problem/1532/E
+1532F|Prefixes and Suffixes|0|219|*special, strings|https://codeforces.com/problemset/problem/1532/F
+1533A|Travel to Bertown|0|1130|*special, implementation, math|https://codeforces.com/problemset/problem/1533/A
+1533B|Nearest Point Function|0|816|*special, implementation|https://codeforces.com/problemset/problem/1533/B
+1533C|Sweets|0|484|*special, data structures, implementation|https://codeforces.com/problemset/problem/1533/C
+1533D|String Searching|0|514|*special, hashing|https://codeforces.com/problemset/problem/1533/D
+1533E|Chess Team Forming|0|285|*special, binary search, data structures, greedy|https://codeforces.com/problemset/problem/1533/E
+1533F|Binary String Partition|0|224|*special, binary search, greedy|https://codeforces.com/problemset/problem/1533/F
+1533G|Biome Map|0|98|*special, constructive algorithms, dfs and similar, graphs|https://codeforces.com/problemset/problem/1533/G
+1533H|Submatrices|0|92|*special, bitmasks, data structures, dp|https://codeforces.com/problemset/problem/1533/H
+1533I|Excursions|0|61|*special, constructive algorithms, dfs and similar, flows, graph matchings, graphs|https://codeforces.com/problemset/problem/1533/I
+1533J|Pawns|0|52|*special|https://codeforces.com/problemset/problem/1533/J
+1576A|Communication Routing Challenge|0|0|*special|https://codeforces.com/problemset/problem/1576/A
+1639A|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/A
+1639B|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/B
+1639C|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/C
+1639D|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/D
+1639E|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/E
+1639F|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/F
+1639G|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/G
+1639H|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/H
+1639I|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/I
+1639J|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/J
+1639K|Treasure Hunt|0|0|graphs, interactive|https://codeforces.com/problemset/problem/1639/K
+1662A|Organizing SWERC|0|4841|brute force, implementation|https://codeforces.com/problemset/problem/1662/A
+1662B|Toys|0|152|greedy, strings|https://codeforces.com/problemset/problem/1662/B
+1662C|European Trip|0|383|dp, graphs, math, matrices|https://codeforces.com/problemset/problem/1662/C
+1662D|Evolution of Weasels|0|2156|greedy, implementation, strings|https://codeforces.com/problemset/problem/1662/D
+1662E|Round Table|0|179|math|https://codeforces.com/problemset/problem/1662/E
+1662F|Antennas|0|1245|data structures, dfs and similar, graphs, implementation, shortest paths|https://codeforces.com/problemset/problem/1662/F
+1662G|Gastronomic Event|0|562|dp, greedy, trees|https://codeforces.com/problemset/problem/1662/G
+1662H|Boundary|0|3368|brute force, math|https://codeforces.com/problemset/problem/1662/H
+1662I|Ice Cream Shop|0|2468|brute force, implementation, sortings|https://codeforces.com/problemset/problem/1662/I
+1662J|Training Camp|0|298|flows, graphs|https://codeforces.com/problemset/problem/1662/J
+1662K|Pandemic Restrictions|0|390|geometry, ternary search|https://codeforces.com/problemset/problem/1662/K
+1662L|Il Derby della Madonnina|0|1332|data structures, dp, math|https://codeforces.com/problemset/problem/1662/L
+1662M|Bottle Arrangements|0|3877|constructive algorithms|https://codeforces.com/problemset/problem/1662/M
+1662N|Drone Photo|0|935|combinatorics, math, sortings|https://codeforces.com/problemset/problem/1662/N
+1662O|Circular Maze|0|1592|brute force, dfs and similar, graphs, implementation|https://codeforces.com/problemset/problem/1662/O
+1663A|Who Tested?|0|10893|*special, expression parsing, trees|https://codeforces.com/problemset/problem/1663/A
+1663B|Mike's Sequence|0|3572|*special, divide and conquer, implementation, math|https://codeforces.com/problemset/problem/1663/B
+1663C|Pōja Verdon|0|5877|*special, implementation, math|https://codeforces.com/problemset/problem/1663/C
+1663D|Is it rated - 3|0|1485|*special, combinatorics, dp, math|https://codeforces.com/problemset/problem/1663/D
+1663E|Are You Safe?|0|589|*special, implementation|https://codeforces.com/problemset/problem/1663/E
+1663F|In Every Generation...|0|379|*special, strings|https://codeforces.com/problemset/problem/1663/F
+1663G|Six Characters|0|225|*special, constructive algorithms, strings|https://codeforces.com/problemset/problem/1663/G
+1663H|Cross-Language Program|0|1354|*special, constructive algorithms|https://codeforces.com/problemset/problem/1663/H
+1812A|Are You a Robot?|0|14340|*special, expression parsing, strings|https://codeforces.com/problemset/problem/1812/A
+1812B|Was it Rated?|0|6061|*special, brute force, implementation|https://codeforces.com/problemset/problem/1812/B
+1812C|Digits|0|1372|*special|https://codeforces.com/problemset/problem/1812/C
+1812D|Trivial Conjecture|0|4902|*special, constructive algorithms, math, number theory|https://codeforces.com/problemset/problem/1812/D
+1812E|Not a Geometry Problem|0|4305|*special, constructive algorithms, geometry, math|https://codeforces.com/problemset/problem/1812/E
+1812F|Factorization|0|1335|*special, number theory|https://codeforces.com/problemset/problem/1812/F
+1812G|Colour Vision|0|623|*special, implementation|https://codeforces.com/problemset/problem/1812/G
+1812H|Expected Twist|0|174|*special, interactive|https://codeforces.com/problemset/problem/1812/H
+1812I|Mountain Climber|0|290|*special|https://codeforces.com/problemset/problem/1812/I
+1812J|Unmysterious Language|0|6292|*special, constructive algorithms, strings|https://codeforces.com/problemset/problem/1812/J
+1885A|Deterministic Scheduling for Extended Reality over 5G and Beyond|0|0|*special|https://codeforces.com/problemset/problem/1885/A
+1939A|Draw Polygon Lines|0|30|*special, constructive algorithms, dp, geometry, interactive|https://codeforces.com/problemset/problem/1939/A
+1939B|Evidence Board|0|307|*special, constructive algorithms, dfs and similar, graphs, trees|https://codeforces.com/problemset/problem/1939/B
+1939C|More Gifts|0|415|*special, dfs and similar, two pointers|https://codeforces.com/problemset/problem/1939/C
+1939D|Big Persimmon|0|111|*special, dp, games|https://codeforces.com/problemset/problem/1939/D
+1940A|Parallel Universes|0|105|*special, constructive algorithms, dfs and similar, dsu, graphs|https://codeforces.com/problemset/problem/1940/A
+1940B|Three Arrays|0|271|*special, constructive algorithms, implementation, sortings|https://codeforces.com/problemset/problem/1940/B
+1940C|Burenka and Pether|0|43|*special, data structures, dfs and similar, divide and conquer, dsu, graphs, sortings, trees|https://codeforces.com/problemset/problem/1940/C
+1940D|Almost Certainly|0|175|*special, constructive algorithms, data structures, sortings|https://codeforces.com/problemset/problem/1940/D
+1952A|Are You a Robot, Again?|0|14110|*special, strings|https://codeforces.com/problemset/problem/1952/A
+1952B|Is it stated?|0|12338|*special, strings|https://codeforces.com/problemset/problem/1952/B
+1952C|They Have Fooled|0|3266|*special, brute force, schedules|https://codeforces.com/problemset/problem/1952/C
+1952D|Are You a Procrastinator?|0|5365|*special, implementation|https://codeforces.com/problemset/problem/1952/D
+1952E|Sweep Line|0|343|*special, combinatorics, games, math|https://codeforces.com/problemset/problem/1952/E
+1952F|Grid|0|1957|*special, brute force|https://codeforces.com/problemset/problem/1952/F
+1952G|Mathematician Takeover|0|1226|*special, binary search, dfs and similar, math|https://codeforces.com/problemset/problem/1952/G
+1952H|Palindrome|0|807|*special, implementation, strings|https://codeforces.com/problemset/problem/1952/H
+1952I|Dark Matter|0|651|*special, bitmasks, geometry|https://codeforces.com/problemset/problem/1952/I
+1952J|Help, what does it mean to be "Based"|0|905|*special, brute force, constructive algorithms, expression parsing, implementation, sortings|https://codeforces.com/problemset/problem/1952/J
+1953A|Accuracy-Preserving Summation Algorithm|0|0|*special|https://codeforces.com/problemset/problem/1953/A
+2011A|Problem Solving|0|1139|*special|https://codeforces.com/problemset/problem/2011/A
+2011B|Shuffle|0|677|*special|https://codeforces.com/problemset/problem/2011/B
+2011C|Split the Expression|0|380|*special|https://codeforces.com/problemset/problem/2011/C
+2011D|Among Wolves|0|283|*special|https://codeforces.com/problemset/problem/2011/D
+2011E|Rock-Paper-Scissors Bot|0|182|*special, greedy, strings|https://codeforces.com/problemset/problem/2011/E
+2011F|Good Subarray|0|131|*special, data structures, greedy|https://codeforces.com/problemset/problem/2011/F
+2011G|Removal of a Permutation|0|50|*special|https://codeforces.com/problemset/problem/2011/G
+2011H|Strange Matrix|0|57|*special, graphs, greedy|https://codeforces.com/problemset/problem/2011/H
+2011I|Stack and Queue|0|23|*special, data structures, divide and conquer|https://codeforces.com/problemset/problem/2011/I
+2087A|Password Generator|0|1053|*special|https://codeforces.com/problemset/problem/2087/A
+2087B|Showmatch|0|570|*special|https://codeforces.com/problemset/problem/2087/B
+2087C|Coin Game|0|488|*special, greedy|https://codeforces.com/problemset/problem/2087/C
+2087D|Uppercase or Lowercase?|0|267|*special, interactive|https://codeforces.com/problemset/problem/2087/D
+2087E|Color the Arrows|0|163|*special, dp|https://codeforces.com/problemset/problem/2087/E
+2087F|Weapon Upgrade|0|70|*special, dp|https://codeforces.com/problemset/problem/2087/F
+2087G|Esports in Berland|0|89|*special, greedy|https://codeforces.com/problemset/problem/2087/G
+2087H|Nim with Special Numbers|0|28|*special|https://codeforces.com/problemset/problem/2087/H
+2087I|Hamiltonian Partition|0|26|*special|https://codeforces.com/problemset/problem/2087/I
+2095A|Piecing It Together|0|13825|*special, string suffix structures|https://codeforces.com/problemset/problem/2095/A
+2095B|Plinko|0|6006|*special, games, interactive|https://codeforces.com/problemset/problem/2095/B
+2095C|Would It Be Unrated?|0|3747|*special, binary search, brute force|https://codeforces.com/problemset/problem/2095/C
+2095D|Where Am I?|0|5305|*special, geometry|https://codeforces.com/problemset/problem/2095/D
+2095E|Pair Count|0|787|*special, number theory|https://codeforces.com/problemset/problem/2095/E
+2095F|⅓ оf а Рrоblеm|0|838|*special, math|https://codeforces.com/problemset/problem/2095/F
+2095G|Definitely a Geometry Problem|0|962|*special, geometry|https://codeforces.com/problemset/problem/2095/G
+2095H|Blurry Vision|0|841|*special, fft, math|https://codeforces.com/problemset/problem/2095/H
+2095I|Mysterious Script|0|640|*special, expression parsing, number theory|https://codeforces.com/problemset/problem/2095/I
+2095J|Premiere at a Wrong Time|0|543|*special|https://codeforces.com/problemset/problem/2095/J
+2168A1|Encode and Decode (Easy Version)|0|5040|communication, constructive algorithms, interactive|https://codeforces.com/problemset/problem/2168/A1
+2168A2|Encode and Decode (Hard Version)|0|3322|bitmasks, communication, interactive, math|https://codeforces.com/problemset/problem/2168/A2
+2168B|Locate|0|1558|binary search, combinatorics, communication, constructive algorithms, greedy, interactive|https://codeforces.com/problemset/problem/2168/B
+2168C|Intercepting Butterflies|0|879|bitmasks, communication, constructive algorithms, graphs, interactive|https://codeforces.com/problemset/problem/2168/C
+2207H1|Bowser's Castle (Easy Version)|0|52|binary search, constructive algorithms, divide and conquer, greedy, interactive, trees|https://codeforces.com/problemset/problem/2207/H1
+2207H2|Bowser's Castle (Medium Version)|0|40|constructive algorithms, divide and conquer, interactive, trees, two pointers|https://codeforces.com/problemset/problem/2207/H2
+2207H3|Bowser's Castle (Hard Version)|0|58|constructive algorithms, divide and conquer, interactive, trees, two pointers|https://codeforces.com/problemset/problem/2207/H3
+2214A|Odd One Out|0|10228|*special, graph matchings, implementation|https://codeforces.com/problemset/problem/2214/A
+2214B|Are You Smiling?|0|6644|*special, strings|https://codeforces.com/problemset/problem/2214/B
+2214C|And?|0|1851|*special, bitmasks|https://codeforces.com/problemset/problem/2214/C
+2214D|Neural Feud|0|4315|*special, strings|https://codeforces.com/problemset/problem/2214/D
+2214E|Shortest Paths|0|1063|*special, shortest paths|https://codeforces.com/problemset/problem/2214/E
+2214F|Numbers|0|959|*special|https://codeforces.com/problemset/problem/2214/F
+2214G|Anomaly|0|751|*special, communication|https://codeforces.com/problemset/problem/2214/G
+2214H|Double Vision|0|1632|*special|https://codeforces.com/problemset/problem/2214/H
+2214I|You Are a Robot|0|304|*special|https://codeforces.com/problemset/problem/2214/I
+2214J|Special Problem|0|3573|*special, brute force, games, interactive|https://codeforces.com/problemset/problem/2214/J
+2219A|Grid L|0|9331|brute force, constructive algorithms, math, number theory|https://codeforces.com/problemset/problem/2219/A
+2219B1|Unique Values (Easy version)|0|3766|binary search, constructive algorithms, divide and conquer, interactive, math|https://codeforces.com/problemset/problem/2219/B1
+2219B2|Unique Values (Hard version)|0|3360|binary search, bitmasks, constructive algorithms, interactive|https://codeforces.com/problemset/problem/2219/B2
+2219C|Coloring a Red Black Tree|0|1260|dfs and similar, dp, greedy, math, probabilities, trees|https://codeforces.com/problemset/problem/2219/C
+2219D|MEX Replacement on Tree|0|456|data structures, implementation, math, trees|https://codeforces.com/problemset/problem/2219/D
+2219E|Weird Chessboard|0|106|constructive algorithms, math|https://codeforces.com/problemset/problem/2219/E
+2220A|Blocked|0|18743|greedy, sortings|https://codeforces.com/problemset/problem/2220/A
+2220B|OIE Excursion|0|12756|greedy|https://codeforces.com/problemset/problem/2220/B
+2222A|A Wonderful Contest|0|10480|brute force, dp, math|https://codeforces.com/problemset/problem/2222/A
+2222B|Artistic Balance Tree|0|7612|greedy, sortings|https://codeforces.com/problemset/problem/2222/B
+2222C|Median Partition|0|5055|dp, math|https://codeforces.com/problemset/problem/2222/C
+2222D|Permutation Construction|0|3366|constructive algorithms, data structures, sortings|https://codeforces.com/problemset/problem/2222/D
+2222E|Seek the Truth|0|2062|binary search, bitmasks, constructive algorithms, interactive|https://codeforces.com/problemset/problem/2222/E
+2222F|Building Tree|0|619|data structures, divide and conquer, dsu, graphs, implementation|https://codeforces.com/problemset/problem/2222/F
+2222G|Statistics on Tree|0|175|binary search, brute force, dfs and similar, divide and conquer, graphs, trees|https://codeforces.com/problemset/problem/2222/G
+2222H|Counting Sort?|0|119|brute force, combinatorics, dp|https://codeforces.com/problemset/problem/2222/H
+2223A|Zhily and Bracket Swapping|0|5670|constructive algorithms, greedy|https://codeforces.com/problemset/problem/2223/A
+2223B|Zhily and Barknights|0|2731|binary search, data structures, dp, math, sortings, two pointers|https://codeforces.com/problemset/problem/2223/B
+2223C|Zhily and Signpost|0|724|chinese remainder theorem, dfs and similar, math, number theory, trees|https://codeforces.com/problemset/problem/2223/C
+2223D|Zhily and Cycle|0|277|graphs, greedy|https://codeforces.com/problemset/problem/2223/D
+2223E|Zhily and Permutation|0|20|data structures, divide and conquer, trees|https://codeforces.com/problemset/problem/2223/E
+2223F|Zhily and Colorful Strings|0|61|divide and conquer, fft, math|https://codeforces.com/problemset/problem/2223/F
+2224A|Zhily and Array Operating|0|8952|constructive algorithms, greedy|https://codeforces.com/problemset/problem/2224/A
+2224B|Zhily and Mex and Max|0|6142|constructive algorithms, greedy, math, sortings|https://codeforces.com/problemset/problem/2224/B
+2225A|A Number Between Two Others|0|18785|greedy, math|https://codeforces.com/problemset/problem/2225/A
+2225B|Alternating String|0|14967|brute force, greedy|https://codeforces.com/problemset/problem/2225/B
+2225C|Red-Black Pairs|0|12049|dp, greedy|https://codeforces.com/problemset/problem/2225/C
+2225D|Exceptional Segments|0|7035|bitmasks, brute force, math|https://codeforces.com/problemset/problem/2225/D
+2225E|Covering Points with Circles|0|1159|constructive algorithms, geometry, math|https://codeforces.com/problemset/problem/2225/E
+2225F|String Cutting|0|646|binary search, brute force, greedy, hashing, string suffix structures, strings|https://codeforces.com/problemset/problem/2225/F
+2225G|Simple Problem|0|223|brute force, graphs, greedy, number theory|https://codeforces.com/problemset/problem/2225/G
+2226A|Disturbing Distribution|0|12679|greedy, math|https://codeforces.com/problemset/problem/2226/A
+2226B|Everything Everywhere|0|11433|greedy, math, number theory|https://codeforces.com/problemset/problem/2226/B
+2226C|Mental Monumental (Easy Version)|0|6361|binary search, data structures, greedy, math, two pointers|https://codeforces.com/problemset/problem/2226/C
+2226D|Reserved Reversals|0|2563|constructive algorithms, dp, greedy, math|https://codeforces.com/problemset/problem/2226/D
+2226E|Mental Monumental (Hard Version)|0|839|data structures, greedy, math, two pointers|https://codeforces.com/problemset/problem/2226/E
+2226F|Inversion Invasion|0|211|math, number theory|https://codeforces.com/problemset/problem/2226/F
+2226G|Stop Spot|0|151|implementation, strings, trees|https://codeforces.com/problemset/problem/2226/G
+2227A|Koshary|0|23777|implementation, math|https://codeforces.com/problemset/problem/2227/A
+2227B|Party Monster|0|21836|greedy|https://codeforces.com/problemset/problem/2227/B
+2227C|Snowfall|0|18081|constructive algorithms, math|https://codeforces.com/problemset/problem/2227/C
+2227D|Palindromex|0|10513|binary search, brute force, constructive algorithms, data structures, greedy, implementation, two pointers|https://codeforces.com/problemset/problem/2227/D
+2227E|It All Went Sideways|0|7293|binary search, data structures, dp, greedy|https://codeforces.com/problemset/problem/2227/E
+2227F|It Just Keeps Going Sideways|0|3370|binary search, data structures, dp, greedy, math|https://codeforces.com/problemset/problem/2227/F
+2227G|Drowning|0|1689|binary search, data structures, math|https://codeforces.com/problemset/problem/2227/G
+2227H|Fallen Leaves|0|1280|dfs and similar, dp, trees|https://codeforces.com/problemset/problem/2227/H
+2228A|Marisa Steals Reimu's Takeout|0|16721|greedy, implementation|https://codeforces.com/problemset/problem/2228/A
+2228B|Remilia Plays Soku|0|12421|games, implementation|https://codeforces.com/problemset/problem/2228/B
+2228C1|Cirno and Number (Easy Version)|0|5835|binary search, brute force, dp, implementation|https://codeforces.com/problemset/problem/2228/C1
+2228C2|Cirno and Number (Hard Version)|0|4133|dp, greedy, implementation|https://codeforces.com/problemset/problem/2228/C2
+2228D|Sanae, Cross and Color|0|1927|binary search, data structures, implementation|https://codeforces.com/problemset/problem/2228/D
+2228E1|Amanojaku and Sequence (Easy Version)|0|457|combinatorics, math|https://codeforces.com/problemset/problem/2228/E1
+2228E2|Amanojaku and Sequence (Hard Version)|0|199|combinatorics, data structures, implementation, math|https://codeforces.com/problemset/problem/2228/E2
+2228F|Momoyo and the Network|0|176|binary search, dfs and similar, divide and conquer, dp, trees|https://codeforces.com/problemset/problem/2228/F
+390A|Inna and Alarm Clock|0|3752|implementation|https://codeforces.com/problemset/problem/390/A
+390B|Inna, Dima and Song|0|1257|implementation|https://codeforces.com/problemset/problem/390/B
+390C|Inna and Candy Boxes|0|700|data structures|https://codeforces.com/problemset/problem/390/C
+390D|Inna and Sweet Matrix|0|539|constructive algorithms|https://codeforces.com/problemset/problem/390/D
+390E|Inna and Large Sweet Matrix|0|279||https://codeforces.com/problemset/problem/390/E
+391A|Genetic Engineering|0|1810|implementation, two pointers|https://codeforces.com/problemset/problem/391/A
+391B|Word Folding|0|443|brute force|https://codeforces.com/problemset/problem/391/B
+391C1|The Tournament|0|212|brute force|https://codeforces.com/problemset/problem/391/C1
+391C2|The Tournament|0|154|greedy|https://codeforces.com/problemset/problem/391/C2
+391C3|The Tournament|0|179||https://codeforces.com/problemset/problem/391/C3
+391D1|Supercollider|0|293|brute force|https://codeforces.com/problemset/problem/391/D1
+391D2|Supercollider|0|218|data structures|https://codeforces.com/problemset/problem/391/D2
+391E1|Three Trees|0|136||https://codeforces.com/problemset/problem/391/E1
+391E2|Three Trees|0|187||https://codeforces.com/problemset/problem/391/E2
+391F1|Stock Trading|0|225|dp|https://codeforces.com/problemset/problem/391/F1
+391F2|Stock Trading|0|121|greedy|https://codeforces.com/problemset/problem/391/F2
+391F3|Stock Trading|0|120||https://codeforces.com/problemset/problem/391/F3
+392A|Blocked Points|0|1009|math|https://codeforces.com/problemset/problem/392/A
+392B|Tower of Hanoi|0|1053|dp|https://codeforces.com/problemset/problem/392/B
+392C|Yet Another Number Sequence|0|680|combinatorics, math, matrices|https://codeforces.com/problemset/problem/392/C
+392D|Three Arrays|0|235|data structures|https://codeforces.com/problemset/problem/392/D
+392E|Deleting Substrings|0|188||https://codeforces.com/problemset/problem/392/E
+393A|Nineteen|0|6995||https://codeforces.com/problemset/problem/393/A
+393B|Three matrices|0|2073||https://codeforces.com/problemset/problem/393/B
+394A|Counting Sticks|0|2738|brute force, implementation|https://codeforces.com/problemset/problem/394/A
+394B|Very Beautiful Number|0|624|math|https://codeforces.com/problemset/problem/394/B
+394C|Dominoes|0|559|constructive algorithms, greedy|https://codeforces.com/problemset/problem/394/C
+394D|Physical Education and Buns|0|299|brute force, implementation, math|https://codeforces.com/problemset/problem/394/D
+394E|Lightbulb for Minister|0|133|geometry|https://codeforces.com/problemset/problem/394/E
+396A|On Number of Decompositions into Multipliers|0|1632|combinatorics, math, number theory|https://codeforces.com/problemset/problem/396/A
+396B|On Sum of Fractions|0|1193|math, number theory|https://codeforces.com/problemset/problem/396/B
+396C|On Changing Tree|0|1807|data structures, graphs, trees|https://codeforces.com/problemset/problem/396/C
+396D|On Sum of Number of Inversions in Permutations|0|465|combinatorics, math|https://codeforces.com/problemset/problem/396/D
+396E|On Iteration of One Well-Known Function|0|167|math|https://codeforces.com/problemset/problem/396/E
+397A|On Segment's Own Points|0|2725|implementation|https://codeforces.com/problemset/problem/397/A
+397B|On Corruption and Numbers|0|835|constructive algorithms, implementation, math|https://codeforces.com/problemset/problem/397/B
+398A|Cards|0|963|constructive algorithms, implementation|https://codeforces.com/problemset/problem/398/A
+398B|Painting The Wall|0|1196|dp, probabilities|https://codeforces.com/problemset/problem/398/B
+398C|Tree and Array|0|221|constructive algorithms|https://codeforces.com/problemset/problem/398/C
+398D|Instant Messanger|0|1286|data structures|https://codeforces.com/problemset/problem/398/D
+398E|Sorting Permutations|0|124||https://codeforces.com/problemset/problem/398/E
+399A|Pages|0|4232|implementation|https://codeforces.com/problemset/problem/399/A
+399B|Red and Blue Balls|0|1883||https://codeforces.com/problemset/problem/399/B
